@@ -1,0 +1,92 @@
+package streams
+
+import org.scalatest.FunSuite
+
+import org.junit.runner.RunWith
+import org.scalatest.junit.JUnitRunner
+
+import Bloxorz._
+
+@RunWith(classOf[JUnitRunner])
+class BloxorzSuite extends FunSuite {
+
+  trait SolutionChecker extends GameDef with Solver with StringParserTerrain {
+    /**
+     * This method applies a list of moves `ls` to the block at position
+     * `startPos`. This can be used to verify if a certain list of moves
+     * is a valid solution, i.e. leads to the goal.
+     */
+    def solve(ls: List[Move]): Block =
+      ls.foldLeft(startBlock) { case (block, move) => move match {
+        case Left => block.left
+        case Right => block.right
+        case Up => block.up
+        case Down => block.down
+      }
+    }
+  }
+
+  trait Level1 extends SolutionChecker {
+      /* terrain for level 1*/
+
+    val level =
+    """ooo-------
+      |oSoooo----
+      |ooooooooo-
+      |-ooooooooo
+      |-----ooToo
+      |------ooo-""".stripMargin
+
+    val optsolution = List(Right, Right, Down, Right, Right, Right, Down)
+  }
+
+  test("terrain function level 1") {
+    new Level1 {
+      assert(terrain(Pos(0,0)), "0,0")
+      assert(!terrain(Pos(4,11)), "4,11")
+    }
+  }
+
+  test("findChar level 1") {
+    new Level1 {
+      assert(startPos == Pos(1,1))
+    }
+  }
+  
+  test("neighborsWithHistory level 1") {
+    new Level1 {
+      println("ngh: " + neighborsWithHistory(Block(Pos(1,1),Pos(1,1)), List(Left,Up)).toSet())
+//      println(Set((Block(Pos(1,2),Pos(1,3)), List(Right,Left,Up)),(Block(Pos(2,1),Pos(3,1)), List(Down,Left,Up))).toString))
+    }
+  }
+  
+  test("print solution") { 
+  new Level1 {
+      println("solution:"+solution)
+      val resAll = pathsFromStart.take(1000000).toList
+      assert(resAll.length == resAll.toSet.size)
+      println("pathsFromStart:"+resAll.length)
+      val result = pathsToGoal.take(10000).toList
+      assert(result.length == result.toSet.size)
+      println("pathsToGoal:"+result.length+" "+result.map(_._2.length))
+      result.foreach{solution => assert(solve(solution._2) == Block(goal, goal))}
+      result.reverse.take(100).foreach{solution =>
+        def block2str(b: Block) = "B((" + b.b1.x + "," + b.b1.y + ")(" + b.b2.x + "," + b.b2.y + "))"
+        def move2str(m: Move) = m match {case Down => 'd'; case Up => 'u'; case Left => 'l'; case Right => 'r';}
+//        println(block2str(startBlock) + solution._2.zip(solution._1).reverse.map(x => "." + move2str(x._1) + "=>" + block2str(x._2)).mkString(""))
+      }
+    }		
+  }
+
+  test("optimal solution for level 1") {
+    new Level1 {
+      assert(solve(solution) == Block(goal, goal))
+    }
+  }
+
+  test("optimal solution length for level 1") {
+    new Level1 {
+      assert(solution.length == optsolution.length)
+    }
+  }
+}

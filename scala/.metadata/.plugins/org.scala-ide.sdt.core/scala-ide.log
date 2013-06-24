@@ -1,0 +1,46 @@
+2013-04-01 02:22:05,174 ERROR [Worker-5] - System.err - SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2013-04-01 02:22:05,174 ERROR [Worker-5] - System.err - SLF4J: Defaulting to no-operation (NOP) logger implementation
+2013-04-01 02:22:05,174 ERROR [Worker-5] - System.err - SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+2013-04-01 02:24:01,897 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Error during instrumentation of ScriptCompilationUnit(L/HelloWorld/src/greeter/Sample.sc)
+org.scalaide.worksheet.runtime.MissingTopLevelObjectDeclaration: Couldn't find top level object declaration in source Sample.sc
+	at org.scalaide.worksheet.runtime.SourceInstrumenter.instrumentProgram(SourceInstrumenter.scala:34)
+	at org.scalaide.worksheet.runtime.SourceInstrumenter.instrument(SourceInstrumenter.scala:21)
+	at org.scalaide.worksheet.runtime.WorksheetRunner$$anonfun$act$1$$anonfun$apply$1.applyOrElse(WorksheetRunner.scala:59)
+	at scala.runtime.AbstractPartialFunction$mcVL$sp.apply$mcVL$sp(AbstractPartialFunction.scala:33)
+	at scala.runtime.AbstractPartialFunction$mcVL$sp.apply(AbstractPartialFunction.scala:33)
+	at scala.runtime.AbstractPartialFunction$mcVL$sp.apply(AbstractPartialFunction.scala:25)
+	at scala.actors.ReactorTask.run(ReactorTask.scala:31)
+	at scala.actors.Reactor$class.resumeReceiver(Reactor.scala:129)
+	at org.scalaide.worksheet.runtime.WorksheetRunner.scala$actors$InternalReplyReactor$$super$resumeReceiver(WorksheetRunner.scala:33)
+	at scala.actors.InternalReplyReactor$class.resumeReceiver(InternalReplyReactor.scala:59)
+	at org.scalaide.worksheet.runtime.WorksheetRunner.resumeReceiver(WorksheetRunner.scala:33)
+	at scala.actors.InternalActor$class.searchMailbox(InternalActor.scala:76)
+	at org.scalaide.worksheet.runtime.WorksheetRunner.searchMailbox(WorksheetRunner.scala:33)
+	at scala.actors.Reactor$$anonfun$startSearch$1$$anonfun$apply$mcV$sp$1.apply$mcV$sp(Reactor.scala:117)
+	at scala.actors.Reactor$$anonfun$startSearch$1$$anonfun$apply$mcV$sp$1.apply(Reactor.scala:114)
+	at scala.actors.Reactor$$anonfun$startSearch$1$$anonfun$apply$mcV$sp$1.apply(Reactor.scala:114)
+	at scala.actors.ReactorTask.run(ReactorTask.scala:33)
+	at scala.actors.ReactorTask.compute(ReactorTask.scala:63)
+	at scala.concurrent.forkjoin.RecursiveAction.exec(RecursiveAction.java:160)
+	at scala.concurrent.forkjoin.ForkJoinTask.doExec(ForkJoinTask.java:262)
+	at scala.concurrent.forkjoin.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:975)
+	at scala.concurrent.forkjoin.ForkJoinPool.runWorker(ForkJoinPool.java:1478)
+	at scala.concurrent.forkjoin.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:104)
+2013-04-06 18:36:01,676 ERROR [Worker-8] - System.err - SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2013-04-06 18:36:01,723 ERROR [Worker-8] - System.err - SLF4J: Defaulting to no-operation (NOP) logger implementation
+2013-04-06 18:36:01,723 ERROR [Worker-8] - System.err - SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+2013-04-14 02:05:49,708 ERROR [Worker-16] - System.err - SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2013-04-14 02:05:50,124 ERROR [Worker-16] - System.err - SLF4J: Defaulting to no-operation (NOP) logger implementation
+2013-04-14 02:05:50,124 ERROR [Worker-16] - System.err - SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+2013-04-27 11:45:44,453 ERROR [Worker-14] - System.err - SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2013-04-27 11:45:44,881 ERROR [Worker-14] - System.err - SLF4J: Defaulting to no-operation (NOP) logger implementation
+2013-04-27 11:45:44,881 ERROR [Worker-14] - System.err - SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+2013-05-11 15:11:16,363 ERROR [Worker-4] - System.err - SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2013-05-11 15:11:16,372 ERROR [Worker-4] - System.err - SLF4J: Defaulting to no-operation (NOP) logger implementation
+2013-05-11 15:11:16,372 ERROR [Worker-4] - System.err - SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+2013-05-17 23:14:00,476 ERROR [Worker-5] - System.err - SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2013-05-17 23:14:00,481 ERROR [Worker-5] - System.err - SLF4J: Defaulting to no-operation (NOP) logger implementation
+2013-05-17 23:14:00,482 ERROR [Worker-5] - System.err - SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+2013-05-19 09:56:01,845 ERROR [Worker-18] - System.err - SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2013-05-19 09:56:01,846 ERROR [Worker-18] - System.err - SLF4J: Defaulting to no-operation (NOP) logger implementation
+2013-05-19 09:56:01,846 ERROR [Worker-18] - System.err - SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.

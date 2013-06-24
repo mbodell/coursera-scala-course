@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workbench progressCount="26" version="2.0">
+<workbenchAdvisor/>
+<window height="1560" maximized="true" width="1280" x="1280" y="0">
+<fastViewData fastViewLocation="1024"/>
+<perspectiveBar>
+<itemSize x="160"/>
+</perspectiveBar>
+<coolbarLayout>
+<coolItem id="group.file" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.file" itemType="typeToolBarContribution" x="122" y="22"/>
+<coolItem id="additions" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.debug.ui.launchActionSet" itemType="typeToolBarContribution" x="152" y="22"/>
+<coolItem id="org.eclipse.search.searchActionSet" itemType="typeToolBarContribution" x="76" y="22"/>
+<coolItem id="org.eclipse.ui.edit.text.actionSet.presentation" itemType="typeToolBarContribution" x="61" y="22"/>
+<coolItem id="org.scala-ide.sdt.core.toolbar" itemType="typeToolBarContribution" x="61" y="22"/>
+<coolItem id="org.eclipse.wst.xml.ui.perspective.NewFileToolBar" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.wst.xml.ui.design.DesignToolBar" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="scala.texteditor.actionset" itemType="typeToolBarContribution" x="38" y="22"/>
+<coolItem id="group.nav" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.navigate" itemType="typeToolBarContribution" x="190" y="22"/>
+<coolItem id="group.editor" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.DefaultTextEditor" itemType="typePlaceholder" x="-1" y="-1"/>
+<coolItem id="scala.tools.eclipse.ScalaClassFileEditor" itemType="typePlaceholder" x="-1" y="-1"/>
+<coolItem id="org.scalaide.worksheet.editors.ScriptEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="scala.tools.eclipse.ScalaSourceFileEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="group.help" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.help" itemType="typeToolBarContribution" x="-1" y="-1"/>
+</coolbarLayout>
+<page aggregateWorkingSetId="Aggregate for window 1364807977644" focus="true" label="Workspace - Scala">
+<editors>
+<editorArea activeWorkbook="DefaultEditorWorkbook">
+<info part="DefaultEditorWorkbook">
+<folder appearance="1" expanded="2">
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+<part id="3"/>
+<part id="4"/>
+<part id="5"/>
+<part id="6"/>
+<part id="7"/>
+<part id="8"/>
+<part id="9"/>
+<part id="10"/>
+<part id="11"/>
+</presentation>
+</folder>
+</info>
+</editorArea>
+<editor id="scala.tools.eclipse.ScalaSourceFileEditor" name="Bloxorz.scala" partName="Bloxorz.scala" path="D:/workspaces/coursera/scala/streams/src/main/scala/streams/Bloxorz.scala" title="Bloxorz.scala" tooltip="streams/src/main/scala/streams/Bloxorz.scala" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/streams/src/main/scala/streams/Bloxorz.scala"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="964" selectionTopPixel="0"/>
+</editor>
+<editor id="scala.tools.eclipse.ScalaSourceFileEditor" name="GameDef.scala" partName="GameDef.scala" path="D:/workspaces/coursera/scala/streams/src/main/scala/streams/GameDef.scala" title="GameDef.scala" tooltip="streams/src/main/scala/streams/GameDef.scala" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/streams/src/main/scala/streams/GameDef.scala"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="4146" selectionTopPixel="1151"/>
+</editor>
+<editor activePart="true" focus="true" id="scala.tools.eclipse.ScalaSourceFileEditor" name="Solver.scala" partName="Solver.scala" path="D:/workspaces/coursera/scala/streams/src/main/scala/streams/Solver.scala" title="Solver.scala" tooltip="streams/src/main/scala/streams/Solver.scala" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/streams/src/main/scala/streams/Solver.scala"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="2637" selectionTopPixel="491"/>
+</editor>
+<editor id="scala.tools.eclipse.ScalaSourceFileEditor" name="InfiniteTerrain.scala" partName="InfiniteTerrain.scala" path="D:/workspaces/coursera/scala/streams/src/main/scala/streams/InfiniteTerrain.scala" title="InfiniteTerrain.scala" tooltip="streams/src/main/scala/streams/InfiniteTerrain.scala" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/streams/src/main/scala/streams/InfiniteTerrain.scala"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="scala.tools.eclipse.ScalaSourceFileEditor" name="StringParserTerrain.scala" partName="StringParserTerrain.scala" path="D:/workspaces/coursera/scala/streams/src/main/scala/streams/StringParserTerrain.scala" title="StringParserTerrain.scala" tooltip="streams/src/main/scala/streams/StringParserTerrain.scala" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/streams/src/main/scala/streams/StringParserTerrain.scala"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1899" selectionTopPixel="270"/>
+</editor>
+<editor id="scala.tools.eclipse.ScalaSourceFileEditor" name="BloxorzSuite.scala" partName="BloxorzSuite.scala" path="D:/workspaces/coursera/scala/streams/src/test/scala/streams/BloxorzSuite.scala" title="BloxorzSuite.scala" tooltip="streams/src/test/scala/streams/BloxorzSuite.scala" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/streams/src/test/scala/streams/BloxorzSuite.scala"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="2060" selectionTopPixel="311"/>
+</editor>
+<editor id="org.scalaide.worksheet.editors.ScriptEditor" name="works.sc" partName="works.sc" path="D:/workspaces/coursera/scala/streams/src/main/scala/streams/works.sc" title="works.sc" tooltip="streams/src/main/scala/streams/works.sc" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/streams/src/main/scala/streams/works.sc"/>
+<editorState selectionHorizontalPixel="0" selectionLength="44" selectionOffset="1720" selectionTopPixel="0"/>
+</editor>
+<editor id="scala.tools.eclipse.ScalaSourceFileEditor" name="FunSetSuite.scala" partName="FunSetSuite.scala" path="D:/Documents/scala/funsets/src/test/scala/funsets/FunSetSuite.scala" title="FunSetSuite.scala" tooltip="progfun-funsets/src/test/scala/funsets/FunSetSuite.scala" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/progfun-funsets/src/test/scala/funsets/FunSetSuite.scala"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="45"/>
+</editor>
+<editor id="scala.tools.eclipse.ScalaSourceFileEditor" name="HuffmanSuite.scala" partName="HuffmanSuite.scala" path="D:/workspaces/coursera/scala/patmat/src/test/scala/patmat/HuffmanSuite.scala" title="HuffmanSuite.scala" tooltip="patmat/src/test/scala/patmat/HuffmanSuite.scala" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/patmat/src/test/scala/patmat/HuffmanSuite.scala"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="131"/>
+</editor>
+<editor id="scala.tools.eclipse.ScalaSourceFileEditor" name="Huffman.scala" partName="Huffman.scala" path="D:/workspaces/coursera/scala/patmat/src/main/scala/patmat/Huffman.scala" title="Huffman.scala" tooltip="patmat/src/main/scala/patmat/Huffman.scala" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/patmat/src/main/scala/patmat/Huffman.scala"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="3341"/>
+</editor>
+<editor id="scala.tools.eclipse.ScalaSourceFileEditor" name="AnagramsSuite.scala" partName="AnagramsSuite.scala" path="D:/workspaces/coursera/scala/forcomp/src/test/scala/forcomp/AnagramsSuite.scala" title="AnagramsSuite.scala" tooltip="forcomp/src/test/scala/forcomp/AnagramsSuite.scala" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/forcomp/src/test/scala/forcomp/AnagramsSuite.scala"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="scala.tools.eclipse.ScalaSourceFileEditor" name="Anagrams.scala" partName="Anagrams.scala" path="D:/workspaces/coursera/scala/forcomp/src/main/scala/forcomp/Anagrams.scala" title="Anagrams.scala" tooltip="forcomp/src/main/scala/forcomp/Anagrams.scala" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/forcomp/src/main/scala/forcomp/Anagrams.scala"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="1665"/>
+</editor>
+</editors>
+<views>
+<view id="org.eclipse.jdt.junit.ResultView" partName="JUnit">
+<viewState failuresOnly="false" layout="1" orientation="2" ratio="500" scroll="false" time="true"/>
+</view>
+<view id="org.eclipse.ui.views.ProblemView" partName="Problems">
+<viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.severityAndDescriptionField" categoryGroup="org.eclipse.ui.ide.severity" markerContentGenerator="org.eclipse.ui.ide.problemsGenerator" partName="Problems">
+<expanded>
+<category IMemento.internal.id="Errors"/>
+<category IMemento.internal.id="Warnings (2 items)"/>
+</expanded>
+<columnWidths org.eclipse.ui.ide.locationField="90" org.eclipse.ui.ide.markerType="90" org.eclipse.ui.ide.pathField="120" org.eclipse.ui.ide.resourceField="90" org.eclipse.ui.ide.severityAndDescriptionField="300"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.severityAndDescriptionField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.resourceField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.pathField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.locationField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.markerType"/>
+</viewState>
+</view>
+<view id="org.eclipse.ui.console.ConsoleView" partName="Console">
+<viewState/>
+</view>
+<view id="org.eclipse.jdt.ui.PackageExplorer" partName="Package Explorer">
+<viewState group_libraries="1" layout="2" linkWithEditor="0" rootMode="1" workingSetName="Aggregate for window 1364807977644">
+<customFilters userDefinedPatternsEnabled="false">
+<xmlDefinedFilters>
+<child filterId="scala.tools.eclipse.javaelements.ScalaElementFilter" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.LibraryFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.LocalTypesFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.StaticsFilter" isEnabled="false"/>
+<child filterId="org.eclipse.pde.ui.ExternalPluginLibrariesFilter1" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.ClosedProjectsFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.NonSharedProjectsFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.NonJavaElementFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.ContainedLibraryFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.CuAndClassFileFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.NonJavaProjectsFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.internal.ui.PackageExplorer.EmptyInnerPackageFilter" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.PackageDeclarationFilter" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.internal.ui.PackageExplorer.EmptyPackageFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.ImportDeclarationFilter" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.FieldsFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.internal.ui.PackageExplorer.HideInnerClassFilesFilter" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.NonPublicFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer_patternFilterId_.*" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.EmptyLibraryContainerFilter" isEnabled="true"/>
+<child filterId="org.eclipse.pde.ui.BinaryProjectFilter1" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.SyntheticMembersFilter" isEnabled="true"/>
+<child filterId="org.eclipse.m2e.MavenModuleFilter" isEnabled="false"/>
+</xmlDefinedFilters>
+</customFilters>
+</viewState>
+</view>
+<view id="org.eclipse.ui.views.TaskList" partName="Tasks">
+<viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.completionField" categoryGroup="none" markerContentGenerator="org.eclipse.ui.ide.tasksGenerator" partName="Tasks">
+<columnWidths org.eclipse.ui.ide.completionField="40" org.eclipse.ui.ide.descriptionField="300" org.eclipse.ui.ide.locationField="90" org.eclipse.ui.ide.markerType="90" org.eclipse.ui.ide.pathField="120" org.eclipse.ui.ide.priorityField="30" org.eclipse.ui.ide.resourceField="90"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.completionField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.priorityField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.descriptionField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.resourceField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.pathField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.locationField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.markerType"/>
+</viewState>
+</view>
+</views>
+<perspectives activePart="scala.tools.eclipse.ScalaSourceFileEditor" activePerspective="org.scala-ide.sdt.core.perspective">
+<perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="scala.tools.eclipse.PerspectiveFactory" id="org.scala-ide.sdt.core.perspective" label="Scala"/>
+<alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.externaltools.ExternalToolsSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
+<alwaysOnActionSet id="scala.texteditor.actionset"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.launchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.ui.JavaActionSet"/>
+<alwaysOnActionSet id="org.scala-ide.sdt.ui.scalaMenu.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.breakpointActionSet"/>
+<show_view_action id="org.eclipse.ui.views.ResourceNavigator"/>
+<show_view_action id="org.eclipse.ui.navigator.ProjectExplorer"/>
+<show_view_action id="org.eclipse.ui.views.ContentOutline"/>
+<show_view_action id="org.eclipse.pde.runtime.LogView"/>
+<show_view_action id="org.scala-ide.sdt.core.consoleView"/>
+<new_wizard_action id="org.scala-ide.sdt.core.wizards.newProject"/>
+<new_wizard_action id="org.scala-ide.sdt.core.wizards.newNetProject"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewPackageCreationWizard"/>
+<new_wizard_action id="org.scala-ide.sdt.core.wizards.newClass"/>
+<new_wizard_action id="org.scala-ide.sdt.core.wizards.newTrait"/>
+<new_wizard_action id="org.scala-ide.sdt.core.wizards.newObject"/>
+<new_wizard_action id="org.scala-ide.sdt.core.wizards.newPackageObject"/>
+<new_wizard_action id="org.scala-ide.sdt.core.wizards.newApplication"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.folder"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.file"/>
+<new_wizard_action id="org.scalaide.worksheet.wizards.newWorksheet"/>
+<perspective_action id="org.eclipse.debug.ui.DebugPerspective"/>
+<hide_toolbar_item_id id="org.eclipse.jdt.ui.actions.OpenProjectWizard"/>
+<hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
+<view id="org.eclipse.jdt.ui.PackageExplorer"/>
+<view id="org.eclipse.ui.views.ProblemView"/>
+<view id="org.eclipse.ui.views.TaskList"/>
+<view id="org.eclipse.ui.console.ConsoleView"/>
+<view id="org.eclipse.jdt.junit.ResultView"/>
+<fastViewBars/>
+<layout>
+<mainWindow>
+<info folder="true" part="explorer">
+<folder activePageID="org.eclipse.jdt.ui.PackageExplorer" appearance="2" expanded="2">
+<page content="org.eclipse.jdt.ui.PackageExplorer" label="Package Explorer"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="stickyFolderRight" ratio="0.75" ratioLeft="750" ratioRight="250" relationship="2" relative="explorer">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+<page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.25" ratioLeft="250" ratioRight="750" relationship="2" relative="explorer"/>
+<info folder="true" part="problems" ratio="0.54571706" ratioLeft="567" ratioRight="472" relationship="4" relative="org.eclipse.ui.editorss">
+<folder activePageID="org.eclipse.jdt.junit.ResultView" appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.ProblemView" label="Problems"/>
+<page content="org.eclipse.ui.views.TaskList" label="Tasks"/>
+<page content="org.eclipse.ui.console.ConsoleView" label="Console"/>
+<page content="org.eclipse.jdt.junit.ResultView" label="JUnit"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+<part id="3"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="right" ratio="0.5087108" ratioLeft="1168" ratioRight="1128" relationship="2" relative="org.eclipse.ui.editorss">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.ContentOutline" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+</mainWindow>
+</layout>
+</perspective>
+</perspectives>
+<workingSets/>
+<navigationHistory>
+<editors>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="scala.tools.eclipse.ScalaSourceFileEditor" path="/streams/src/main/scala/streams/Solver.scala"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="scala.tools.eclipse.ScalaSourceFileEditor" path="/streams/src/test/scala/streams/BloxorzSuite.scala"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="scala.tools.eclipse.ScalaSourceFileEditor" path="/streams/src/main/scala/streams/GameDef.scala"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="scala.tools.eclipse.ScalaSourceFileEditor" path="/streams/src/main/scala/streams/StringParserTerrain.scala"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="scala.tools.eclipse.ScalaSourceFileEditor" path="/streams/src/main/scala/streams/InfiniteTerrain.scala"/>
+</editors>
+<item historyLabel="GameDef.scala" index="2">
+<position info="not_deleted" x="4146" y="0"/>
+</item>
+<item historyLabel="Solver.scala" index="0">
+<position info="not_deleted" x="3617" y="0"/>
+</item>
+<item historyLabel="GameDef.scala" index="2">
+<position info="not_deleted" x="4146" y="0"/>
+</item>
+<item historyLabel="Solver.scala" index="0">
+<position info="not_deleted" x="3617" y="0"/>
+</item>
+<item historyLabel="GameDef.scala" index="2">
+<position info="not_deleted" x="4146" y="0"/>
+</item>
+<item historyLabel="Solver.scala" index="0">
+<position info="not_deleted" x="3617" y="0"/>
+</item>
+<item historyLabel="Solver.scala" index="0">
+<position info="not_deleted" x="4011" y="0"/>
+</item>
+<item historyLabel="Solver.scala" index="0">
+<position info="not_deleted" x="4046" y="0"/>
+</item>
+<item historyLabel="Solver.scala" index="0">
+<position info="not_deleted" x="2937" y="0"/>
+</item>
+<item historyLabel="Solver.scala" index="0">
+<position info="not_deleted" x="2937" y="0"/>
+</item>
+<item historyLabel="Solver.scala" index="0">
+<position info="not_deleted" x="3164" y="0"/>
+</item>
+<item historyLabel="BloxorzSuite.scala" index="1">
+<position info="not_deleted" x="1283" y="0"/>
+</item>
+<item historyLabel="StringParserTerrain.scala" index="3">
+<position info="not_deleted" x="1796" y="0"/>
+</item>
+<item historyLabel="Solver.scala" index="0">
+<position info="not_deleted" x="3791" y="0"/>
+</item>
+<item historyLabel="BloxorzSuite.scala" index="1">
+<position info="not_deleted" x="2001" y="0"/>
+</item>
+<item historyLabel="Solver.scala" index="0">
+<position info="not_deleted" x="3791" y="0"/>
+</item>
+<item historyLabel="Solver.scala" index="0">
+<position info="not_deleted" x="3164" y="0"/>
+</item>
+<item historyLabel="BloxorzSuite.scala" index="1">
+<position info="not_deleted" x="2001" y="0"/>
+</item>
+<item historyLabel="InfiniteTerrain.scala" index="4">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="StringParserTerrain.scala" index="3">
+<position info="not_deleted" x="1796" y="0"/>
+</item>
+<item historyLabel="Solver.scala" index="0">
+<position info="not_deleted" x="2942" y="0"/>
+</item>
+<item historyLabel="BloxorzSuite.scala" index="1">
+<position info="not_deleted" x="2001" y="0"/>
+</item>
+<item historyLabel="Solver.scala" index="0">
+<position info="not_deleted" x="2704" y="0"/>
+</item>
+<item historyLabel="BloxorzSuite.scala" index="1">
+<position info="not_deleted" x="2043" y="17"/>
+</item>
+<item historyLabel="Solver.scala" index="0">
+<position info="not_deleted" x="2963" y="73"/>
+</item>
+<item historyLabel="Solver.scala" index="0">
+<position info="not_deleted" x="2949" y="0"/>
+</item>
+<item historyLabel="BloxorzSuite.scala" index="1">
+<position info="not_deleted" x="2043" y="17"/>
+</item>
+<item historyLabel="Solver.scala" index="0">
+<position info="not_deleted" x="3164" y="0"/>
+</item>
+<item historyLabel="BloxorzSuite.scala" index="1">
+<position info="not_deleted" x="2043" y="17"/>
+</item>
+<item historyLabel="Solver.scala" index="0">
+<position info="not_deleted" x="3146" y="0"/>
+</item>
+<item historyLabel="BloxorzSuite.scala" index="1">
+<position info="not_deleted" x="2043" y="17"/>
+</item>
+<item historyLabel="GameDef.scala" index="2">
+<position info="not_deleted" x="4146" y="0"/>
+</item>
+<item historyLabel="InfiniteTerrain.scala" index="4">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="StringParserTerrain.scala" index="3">
+<position info="not_deleted" x="1796" y="0"/>
+</item>
+<item historyLabel="BloxorzSuite.scala" index="1">
+<position info="not_deleted" x="1178" y="0"/>
+</item>
+<item historyLabel="Solver.scala" index="0">
+<position info="not_deleted" x="3352" y="0"/>
+</item>
+<item historyLabel="BloxorzSuite.scala" index="1">
+<position info="not_deleted" x="1015" y="0"/>
+</item>
+<item historyLabel="Solver.scala" index="0">
+<position info="not_deleted" x="2990" y="0"/>
+</item>
+<item historyLabel="BloxorzSuite.scala" index="1">
+<position info="not_deleted" x="2116" y="0"/>
+</item>
+<item historyLabel="Solver.scala" index="0">
+<position info="not_deleted" x="2990" y="0"/>
+</item>
+<item historyLabel="Solver.scala" index="0">
+<position info="not_deleted" x="3164" y="0"/>
+</item>
+<item historyLabel="BloxorzSuite.scala" index="1">
+<position info="not_deleted" x="2121" y="0"/>
+</item>
+<item historyLabel="Solver.scala" index="0">
+<position info="not_deleted" x="3160" y="0"/>
+</item>
+<item historyLabel="BloxorzSuite.scala" index="1">
+<position info="not_deleted" x="2060" y="0"/>
+</item>
+<item historyLabel="Solver.scala" index="0">
+<position info="not_deleted" x="2637" y="0"/>
+</item>
+<item historyLabel="BloxorzSuite.scala" index="1">
+<position info="not_deleted" x="2060" y="0"/>
+</item>
+<item historyLabel="StringParserTerrain.scala" index="3">
+<position info="not_deleted" x="1899" y="0"/>
+</item>
+<item historyLabel="BloxorzSuite.scala" index="1">
+<position info="not_deleted" x="2060" y="0"/>
+</item>
+<item historyLabel="InfiniteTerrain.scala" index="4">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item active="true" historyLabel="Solver.scala" index="0">
+<position info="not_deleted" x="2637" y="0"/>
+</item>
+</navigationHistory>
+<input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
+</page>
+<workbenchWindowAdvisor/>
+<actionBarAdvisor/>
+<trimLayout>
+<trimArea IMemento.internal.id="128">
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.WorkbenchWindow.topBar"/>
+</trimArea>
+<trimArea IMemento.internal.id="1024">
+<trimItem IMemento.internal.id="org.eclise.ui.internal.FastViewBar"/>
+<trimItem IMemento.internal.id="org.eclipse.jface.action.StatusLineManager"/>
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.progress.ProgressRegion"/>
+</trimArea>
+</trimLayout>
+</window>
+<mruList>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="scala.tools.eclipse.ScalaSourceFileEditor" name="Anagrams.scala" tooltip="forcomp/src/main/scala/forcomp/Anagrams.scala">
+<persistable path="/forcomp/src/main/scala/forcomp/Anagrams.scala"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="scala.tools.eclipse.ScalaSourceFileEditor" name="AnagramsSuite.scala" tooltip="forcomp/src/test/scala/forcomp/AnagramsSuite.scala">
+<persistable path="/forcomp/src/test/scala/forcomp/AnagramsSuite.scala"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="scala.tools.eclipse.ScalaSourceFileEditor" name="Huffman.scala" tooltip="patmat/src/main/scala/patmat/Huffman.scala">
+<persistable path="/patmat/src/main/scala/patmat/Huffman.scala"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="scala.tools.eclipse.ScalaSourceFileEditor" name="HuffmanSuite.scala" tooltip="patmat/src/test/scala/patmat/HuffmanSuite.scala">
+<persistable path="/patmat/src/test/scala/patmat/HuffmanSuite.scala"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="scala.tools.eclipse.ScalaSourceFileEditor" name="FunSetSuite.scala" tooltip="progfun-funsets/src/test/scala/funsets/FunSetSuite.scala">
+<persistable path="/progfun-funsets/src/test/scala/funsets/FunSetSuite.scala"/>
+</file>
+<file factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="scala.tools.eclipse.ScalaClassFileEditor" name="Vector.class" tooltip="scala.collection.immutable.Vector">
+<persistable org.eclipse.jdt.ui.ClassFileIdentifier="=streams/C:\/Users\/Michael\/.eclipse\/org.eclipse.platform_3.7.0_653106627\/configuration\/org.eclipse.osgi\/bundles\/255\/1\/.cp\/lib\/scala-library.jar&lt;scala.collection.immutable(Vector.class"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.scalaide.worksheet.editors.ScriptEditor" name="works.sc" tooltip="streams/src/main/scala/streams/works.sc">
+<persistable path="/streams/src/main/scala/streams/works.sc"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="scala.tools.eclipse.ScalaSourceFileEditor" name="BloxorzSuite.scala" tooltip="streams/src/test/scala/streams/BloxorzSuite.scala">
+<persistable path="/streams/src/test/scala/streams/BloxorzSuite.scala"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="scala.tools.eclipse.ScalaSourceFileEditor" name="StringParserTerrain.scala" tooltip="streams/src/main/scala/streams/StringParserTerrain.scala">
+<persistable path="/streams/src/main/scala/streams/StringParserTerrain.scala"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="scala.tools.eclipse.ScalaSourceFileEditor" name="InfiniteTerrain.scala" tooltip="streams/src/main/scala/streams/InfiniteTerrain.scala">
+<persistable path="/streams/src/main/scala/streams/InfiniteTerrain.scala"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="scala.tools.eclipse.ScalaSourceFileEditor" name="Solver.scala" tooltip="streams/src/main/scala/streams/Solver.scala">
+<persistable path="/streams/src/main/scala/streams/Solver.scala"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="scala.tools.eclipse.ScalaSourceFileEditor" name="GameDef.scala" tooltip="streams/src/main/scala/streams/GameDef.scala">
+<persistable path="/streams/src/main/scala/streams/GameDef.scala"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="scala.tools.eclipse.ScalaSourceFileEditor" name="Bloxorz.scala" tooltip="streams/src/main/scala/streams/Bloxorz.scala">
+<persistable path="/streams/src/main/scala/streams/Bloxorz.scala"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.scalaide.worksheet.editors.ScriptEditor" name="playsheet.sc" tooltip="forcomp/src/test/scala/forcomp/playsheet.sc">
+<persistable path="/forcomp/src/test/scala/forcomp/playsheet.sc"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="scala.tools.eclipse.ScalaSourceFileEditor" name="package.scala" tooltip="forcomp/src/main/scala/forcomp/package.scala">
+<persistable path="/forcomp/src/main/scala/forcomp/package.scala"/>
+</file>
+</mruList>
+</workbench>

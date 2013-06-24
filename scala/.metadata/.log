@@ -1,0 +1,91 @@
+!SESSION 2013-04-01 02:18:41.253 -----------------------------------------------
+eclipse.buildId=3.0.0-vfinal-20130326-1146-Typesafe
+java.version=1.7.0_17
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.ui 4 4 2013-04-01 02:20:15.622
+!MESSAGE Invalid preference page path: XML Syntax
+
+!ENTRY org.scala-ide.sdt.core 4 0 2013-04-01 02:24:01.894
+!MESSAGE Error during instrumentation of ScriptCompilationUnit(L/HelloWorld/src/greeter/Sample.sc)
+!STACK 0
+org.scalaide.worksheet.runtime.MissingTopLevelObjectDeclaration: Couldn't find top level object declaration in source Sample.sc
+	at org.scalaide.worksheet.runtime.SourceInstrumenter.instrumentProgram(SourceInstrumenter.scala:34)
+	at org.scalaide.worksheet.runtime.SourceInstrumenter.instrument(SourceInstrumenter.scala:21)
+	at org.scalaide.worksheet.runtime.WorksheetRunner$$anonfun$act$1$$anonfun$apply$1.applyOrElse(WorksheetRunner.scala:59)
+	at scala.runtime.AbstractPartialFunction$mcVL$sp.apply$mcVL$sp(AbstractPartialFunction.scala:33)
+	at scala.runtime.AbstractPartialFunction$mcVL$sp.apply(AbstractPartialFunction.scala:33)
+	at scala.runtime.AbstractPartialFunction$mcVL$sp.apply(AbstractPartialFunction.scala:25)
+	at scala.actors.ReactorTask.run(ReactorTask.scala:31)
+	at scala.actors.Reactor$class.resumeReceiver(Reactor.scala:129)
+	at org.scalaide.worksheet.runtime.WorksheetRunner.scala$actors$InternalReplyReactor$$super$resumeReceiver(WorksheetRunner.scala:33)
+	at scala.actors.InternalReplyReactor$class.resumeReceiver(InternalReplyReactor.scala:59)
+	at org.scalaide.worksheet.runtime.WorksheetRunner.resumeReceiver(WorksheetRunner.scala:33)
+	at scala.actors.InternalActor$class.searchMailbox(InternalActor.scala:76)
+	at org.scalaide.worksheet.runtime.WorksheetRunner.searchMailbox(WorksheetRunner.scala:33)
+	at scala.actors.Reactor$$anonfun$startSearch$1$$anonfun$apply$mcV$sp$1.apply$mcV$sp(Reactor.scala:117)
+	at scala.actors.Reactor$$anonfun$startSearch$1$$anonfun$apply$mcV$sp$1.apply(Reactor.scala:114)
+	at scala.actors.Reactor$$anonfun$startSearch$1$$anonfun$apply$mcV$sp$1.apply(Reactor.scala:114)
+	at scala.actors.ReactorTask.run(ReactorTask.scala:33)
+	at scala.actors.ReactorTask.compute(ReactorTask.scala:63)
+	at scala.concurrent.forkjoin.RecursiveAction.exec(RecursiveAction.java:160)
+	at scala.concurrent.forkjoin.ForkJoinTask.doExec(ForkJoinTask.java:262)
+	at scala.concurrent.forkjoin.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:975)
+	at scala.concurrent.forkjoin.ForkJoinPool.runWorker(ForkJoinPool.java:1478)
+	at scala.concurrent.forkjoin.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:104)
+!SESSION 2013-04-06 18:30:15.132 -----------------------------------------------
+eclipse.buildId=3.0.0-vfinal-20130326-1146-Typesafe
+java.version=1.7.0_17
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.ui 4 4 2013-04-06 18:34:49.516
+!MESSAGE Invalid preference page path: XML Syntax
+!SESSION 2013-04-14 01:57:14.316 -----------------------------------------------
+eclipse.buildId=3.0.0-vfinal-20130326-1146-Typesafe
+java.version=1.7.0_17
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.ui 4 4 2013-04-14 03:50:27.387
+!MESSAGE Invalid preference page path: XML Syntax
+!SESSION 2013-04-27 11:36:00.633 -----------------------------------------------
+eclipse.buildId=3.0.0-vfinal-20130326-1146-Typesafe
+java.version=1.7.0_17
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.ui 4 4 2013-04-27 12:08:27.728
+!MESSAGE Invalid preference page path: XML Syntax
+!SESSION 2013-05-11 15:09:49.530 -----------------------------------------------
+eclipse.buildId=3.0.0-vfinal-20130326-1146-Typesafe
+java.version=1.7.0_17
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.ui 4 4 2013-05-12 02:00:31.377
+!MESSAGE Invalid preference page path: XML Syntax
+!SESSION 2013-05-17 23:12:52.393 -----------------------------------------------
+eclipse.buildId=3.0.0-vfinal-20130326-1146-Typesafe
+java.version=1.7.0_17
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.ui 4 4 2013-05-17 23:30:04.081
+!MESSAGE Invalid preference page path: XML Syntax
+!SESSION 2013-05-19 09:31:59.114 -----------------------------------------------
+eclipse.buildId=3.0.0-vfinal-20130326-1146-Typesafe
+java.version=1.7.0_17
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.ui 4 4 2013-05-19 14:00:32.333
+!MESSAGE Invalid preference page path: XML Syntax
